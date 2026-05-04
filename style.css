@@ -1,0 +1,44 @@
+h1 {
+    font-size: 80px;
+    height: 60px;
+    text-shadow: 2px 2px 5px rgb(0, 47, 255);
+    margin-block-start: 0px;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 60px;
+    height: 50px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background-color: lightgray;
+    background-image: url("fondo.jpg");
+    color: white;
+    font-family: Arial;
+}
+
+p {
+    color: black;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+a {
+    color:blue;
+    background-color: aliceblue;
+    width: 300px;
+}
+
+a:hover {
+    color:blue;
+    background-color: aqua;
+    width: 300px;
+}
